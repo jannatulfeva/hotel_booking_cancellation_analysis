@@ -92,14 +92,27 @@ pip install pandas matplotlib seaborn
 Open and run the notebook
 Run the notebook: hotel_booking_cancellation-analysis.ipynb
 
+# Final Recommendations
 
+Based on the analysis of cancellations, ADR, and hotel types, the following actions are recommended:
 
+- Focus marketing and staffing resources on peak booking months to handle seasonal surges.
 
+- Optimize pricing strategies for City Hotels to remain competitive while mitigating high cancellation rates.
 
+- Target high-value customer segments that demonstrate lower cancellation tendencies.
 
+- Plan for seasonal ADR fluctuations by adjusting overbooking limits during high-demand periods.
 
+- Monitor lead times closely to identify and follow up on reservations with a high risk of being dropped.
 
+# Author & Contact
 
+Jannatul Ferdaus Eva
+
+Data Analyst
+
+📧 Email: jannateva76@gmail.com
 
 
 
